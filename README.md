@@ -1,14 +1,14 @@
-# **Dragon Plus** 🐉🚍
+# **Dragon Bus** 🐉🚍
 
 ## **Equipo Salamandras** 🦎
 
-Este proyecto, **Dragon Plus**, es una **mejora de la app QroBus**, desarrollada por el equipo **Salamandras** con el objetivo de optimizar la experiencia del usuario al proporcionar funciones avanzadas de navegación, pagos NFC, y más. A través de esta mejora, buscamos hacer que el transporte público sea más eficiente, accesible y conveniente para los usuarios. Este proyecto es parte del **Hackathon Troyanos** 🏆.
+Este proyecto, **Dragon Bus**, es una **mejora de la app QroBus**, desarrollada por el equipo **Salamandras** con el objetivo de optimizar la experiencia del usuario al proporcionar funciones avanzadas de navegación, pagos NFC, y más. A través de esta mejora, buscamos hacer que el transporte público sea más eficiente, accesible y conveniente para los usuarios. Este proyecto es parte del **Hackathon Troyanos** 🏆.
 
 ### **Integrantes del Equipo:**
 - **Miguel Alfredo Robledo**
+- **Jose Manuel Garcia Morales**
 - **Erick Gael Barbosa Cuarenta**
 - **Juan David Tapia Frias**
-- **Jose Manuel Garcia Morales**
 
 ---
 
@@ -180,6 +180,6 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 
 ### **Licencia** 📜
 
-Este proyecto está bajo la **Licencia MIT**.
+Este proyecto está bajo la **Licencia MLH**.
 
 ---
