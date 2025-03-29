@@ -1,15 +1,15 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Register from './Auth/Register';
+import HomeView from './pages/HomeView'; // Ruta corregida
 import Login from './Auth/Login';
-import MapView from './pages/MapView'; // ✅ Importación correcta
+import Register from './Auth/Register';
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<MapView />} />
-        <Route path="/register" element={<Register />} />
+        <Route path="/" element={<HomeView />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
       </Routes>
     </BrowserRouter>
   );
